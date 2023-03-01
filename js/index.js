@@ -15,3 +15,4 @@ function w3_open() {
     var captionText = document.getElementById("caption");
     captionText.innerHTML = element.alt;
   }
+

@@ -23,3 +23,12 @@ body
         margin-left:340px;
         margin-right:40px
     }
+.contact_container{
+    margin: auto;
+    padding: 10px;
+}
+
+li{
+    font-size: 30px;
+    text-transform: capitalize;
+}
